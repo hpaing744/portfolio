@@ -44,7 +44,7 @@ const Contact = () => {
               <h3 className="contact__card-title">
                 Whatsapp
               </h3>
-              <span className="contact__card-data">0995428740</span>
+              <span className="contact__card-data">09954287440</span>
 
               <a href="https://api.whatsapp.com/send?phone=09542874440&text=Hello,more information!" className="contact__button">Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
             </div>
